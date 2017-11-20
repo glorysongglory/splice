@@ -5,6 +5,7 @@
     {
 		    "version": "1.1.1",
     "files": ["src/css/style.css"],
+	    "packages": [],
     "logs": ["测试更新功能，修改 style.css"]
 	  }
   ],
